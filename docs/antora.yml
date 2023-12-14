@@ -1,6 +1,6 @@
 name: summer
-title: Tokyo 2020
-version: 2020
+title: Rio 2016
+version: 2016
 start_page: index.adoc
 asciidoc:
   attributes:

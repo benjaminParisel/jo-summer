@@ -1,7 +1,7 @@
 # 100 mètres
-:description: Découvrez les résultats du 100m des Jeux olympiques de Tokyo 2020.
+:description: Découvrez les résultats du 100m des Jeux olympiques de Rio 2016.
 
-L'épreuve du 100 mètres masculin aux Jeux olympiques de 2020 se déroule les 31 juillet et 1er août 2021 au Stade olympique national de Tokyo, au Japon.
+L'épreuve du 100 mètres masculin aux Jeux olympiques de 2016 se déroule les 13 et 14 août 2016 au Stade olympique de Rio de Janeiro, au Brésil. Elle est remportée par le Jamaïcain Usain Bolt en 9s81.
 
 ## Médaillés
 
@@ -10,25 +10,7 @@ L'épreuve du 100 mètres masculin aux Jeux olympiques de 2020 se déroule les 3
 | Or
 | Argent
 | Bronze
-| https://fr.wikipedia.org/wiki/Marcell_Jacobs[Marcell Jacobs]
-| https://fr.wikipedia.org/wiki/Fred_Kerley[Fred Kerley]
+| https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
+| https://fr.wikipedia.org/wiki/Justin_Gatlin[Justin Gatlin]
 | https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
-|===
-
-
-## Record
-
-[cols="1,1,1,1,1"]
-|===
-| Record du monde
-| https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
-| 9s58
-| Berlin
-| 16 août 2009
-
-| Record olympique
-| https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
-| 9s63
-| Londres
-| 5 août 2012
 |===

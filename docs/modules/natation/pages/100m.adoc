@@ -10,24 +10,7 @@ Le 100 m nage libre hommes est une épreuve des Jeux olympiques d'été de 2020 
 | Or
 | Argent
 | Bronze
-| https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
 | https://fr.wikipedia.org/wiki/Kyle_Chalmers[Kyle Chalmers]
-| https://fr.wikipedia.org/wiki/Kliment_Kolesnikov[Kliment Kolesnikov]
-|===
-
-## Record
-
-[cols="1,1,1,1,1"]
-|===
-| Record du monde
-| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
-| 46.91
-| Rome
-| 30 juillet 2009
-
-| Record olympique
-| https://fr.wikipedia.org/wiki/Eamon_Sullivan[Eamon Sullivan]
-| 47.02
-| Londres
-| 5 août 2012
+| https://fr.wikipedia.org/wiki/Pieter_Timmers[Pieter Timmers]
+| https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
 |===

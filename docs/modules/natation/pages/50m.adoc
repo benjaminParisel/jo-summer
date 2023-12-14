@@ -9,24 +9,7 @@ Le 50 m nage libre hommes est une épreuve des Jeux olympiques d'été de 2020 q
 | Or
 | Argent
 | Bronze
-| https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
+| https://fr.wikipedia.org/wiki/Anthony_ErvinAnthony Ervin]
 | https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
-| https://fr.wikipedia.org/wiki/Bruno_Fratus[Bruno Fratus]
-|===
-
-## Record
-
-[cols="1,1,1,1,1"]
-|===
-| Record du monde
-| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
-| 20.91
-| São Paulo
-| 18 décembre 2009
-
-| Record olympique
-| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
-| 21.30
-| Pékin
-| 5 août 2012
+| https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
 |===
