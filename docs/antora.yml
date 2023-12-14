@@ -1,7 +1,9 @@
 name: summer
-title: Jeux olympiques de Tokyo 2020
+title: Tokyo 2020
 version: 2020
+start_page: index.adoc
 asciidoc:
   attributes:
 nav:
-  - modules/athletisme-nav.adoc
+  - modules/athletisme/nav.adoc
+  - modules/natation/nav.adoc

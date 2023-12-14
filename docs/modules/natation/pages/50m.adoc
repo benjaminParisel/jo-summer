@@ -1,0 +1,32 @@
+# 50m nage libre hommes
+
+Le 50 m nage libre hommes est une épreuve des Jeux olympiques d'été de 2020 qui a eu lieu entre les 30 juillet et 1er août au Centre aquatique olympique de Tokyo. Il s'agit de la neuvième édition de cette épreuve qui est apparue pour la première fois lors des Jeux olympiques d'été de 1988.
+
+## Médaillés
+
+[cols="1,1,1"]
+|===
+| Or
+| Argent
+| Bronze
+| https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
+| https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
+| https://fr.wikipedia.org/wiki/Bruno_Fratus[Bruno Fratus]
+|===
+
+## Record
+
+[cols="1,1,1,1,1"]
+|===
+| Record du monde
+| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
+| 20.91
+| São Paulo
+| 18 décembre 2009
+
+| Record olympique
+| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
+| 21.30
+| Pékin
+| 5 août 2012
+|===
