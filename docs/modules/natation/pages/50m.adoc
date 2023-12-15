@@ -12,9 +12,9 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 | Argent 🥈
 | Bronze 🥉
 
-| https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
-| https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
-| https://fr.wikipedia.org/wiki/Bruno_Fratus[Bruno Fratus]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
+| 🇫🇷 https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
+| 🇧🇷 https://fr.wikipedia.org/wiki/Bruno_Fratus[Bruno Fratus]
 |===
 
 ### Femmes
@@ -24,9 +24,9 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 | Argent 🥈
 | Bronze 🥉
 
-| https://fr.wikipedia.org/wiki/Emma_McKeon[Emma McKeon]
-| https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
-| https://fr.wikipedia.org/wiki/Pernille_Blume[Pernille Blume]
+| 🇦🇺 https://fr.wikipedia.org/wiki/Emma_McKeon[Emma McKeon]
+| 🇸🇪 https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
+| 🇩🇰 https://fr.wikipedia.org/wiki/Pernille_Blume[Pernille Blume]
 |===
 
 ## Record
@@ -36,13 +36,13 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
-| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
+| 🇧🇷 https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
 | 20.91
 | São Paulo
 | 18 décembre 2009
 
 | Record olympique
-| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
+| 🇧🇷 https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
 | 21.30
 | Pékin
 | 5 août 2012
@@ -54,13 +54,13 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
-| https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
+| 🇸🇪 https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
 | 23.67
 | Budapest
 | 29 juillet 2017
 
 | Record olympique
-| https://fr.wikipedia.org/wiki/Ranomi_Kromowidjojo[Ranomi Kromowidjojo]
+| 🇳🇱 https://fr.wikipedia.org/wiki/Ranomi_Kromowidjojo[Ranomi Kromowidjojo]
 | 21.24.05
 | Londres
 | 4 août 2012

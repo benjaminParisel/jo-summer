@@ -12,9 +12,9 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Marcell_Jacobs[Marcell Jacobs]
-| https://fr.wikipedia.org/wiki/Fred_Kerley[Fred Kerley]
-| https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
+| 🇨🇦 https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Kenneth_Bednarek[Kenneth Bednarek]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Noha_Lyles[Noha Lyles]
 |===
 
 ### Femmes
@@ -23,9 +23,9 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Elaine_Thompson-Herah[Elaine Thompson-Herah]
-| https://fr.wikipedia.org/wiki/Christine_Mboma[Christine Mboma]
-| https://fr.wikipedia.org/wiki/Gabrielle_Thomas[Gabrielle Thomas]
+| 🇯🇲 https://fr.wikipedia.org/wiki/Elaine_Thompson-Herah[Elaine Thompson-Herah]
+| 🇳🇦 https://fr.wikipedia.org/wiki/Christine_Mboma[Christine Mboma]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Gabrielle_Thomas[Gabrielle Thomas]
 |===
 
 
@@ -34,13 +34,13 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
-| https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
+| 🇯🇲 https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
 | 19s19	
 | Berlin
 | 20 août 2009
 
 | Record olympique
-| https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
+| 🇯🇲 https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
 | 19s30
 | Pekin
 | 20 août 2008
@@ -50,13 +50,13 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
-| https://fr.wikipedia.org/wiki/Florence_Griffith-Joyner[Florence Griffith-Joyner]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Florence_Griffith-Joyner[Florence Griffith-Joyner]
 | 21s34
 | Séoul
 | 29 septembre 1988
 
 | Record olympique
-| https://fr.wikipedia.org/wiki/Florence_Griffith-Joyner[Florence Griffith-Joyner]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Florence_Griffith-Joyner[Florence Griffith-Joyner]
 | 21s34
 | Séoul
 | 29 septembre 1988

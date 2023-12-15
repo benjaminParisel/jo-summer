@@ -13,8 +13,8 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 | Argent 🥈
 | Bronze 🥉
 
-| https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
-| https://fr.wikipedia.org/wiki/Kyle_Chalmers[Kyle Chalmers]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
+| 🇦🇺 https://fr.wikipedia.org/wiki/Kyle_Chalmers[Kyle Chalmers]
 | https://fr.wikipedia.org/wiki/Kliment_Kolesnikov[Kliment Kolesnikov]
 |===
 
@@ -25,9 +25,9 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 | Argent 🥈
 | Bronze 🥉
 
-| https://fr.wikipedia.org/wiki/Emma_McKeon[Emma McKeon]
-| https://fr.wikipedia.org/wiki/Siobhan_Haughey[Siobhan Haughey]
-| https://fr.wikipedia.org/wiki/Cate_Campbell[Cate Campbell]
+| 🇦🇺 https://fr.wikipedia.org/wiki/Emma_McKeon[Emma McKeon]
+| 🇭🇰 https://fr.wikipedia.org/wiki/Siobhan_Haughey[Siobhan Haughey]
+| 🇦🇺 https://fr.wikipedia.org/wiki/Cate_Campbell[Cate Campbell]
 |===
 
 ## Record
@@ -37,13 +37,13 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
-| https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
+| 🇧🇷 https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
 | 46.91
 | Rome
 | 30 juillet 2009
 
 | Record olympique
-| https://fr.wikipedia.org/wiki/Eamon_Sullivan[Eamon Sullivan]
+| 🇦🇺 https://fr.wikipedia.org/wiki/Eamon_Sullivan[Eamon Sullivan]
 | 47.02
 | Londres
 | 5 août 2012
@@ -53,13 +53,13 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
-| https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
+| 🇸🇪 https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
 | 51.71
 | Budapest
 | 23 juillet 2017
 
 | Record olympique
-| https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel] https://fr.wikipedia.org/wiki/Penny_Oleksiak[Penny Oleksiak]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel] 🇨🇦 https://fr.wikipedia.org/wiki/Penny_Oleksiak[Penny Oleksiak]
 | 52.70
 | Rio de Janeiro
 | 11 août 2016
