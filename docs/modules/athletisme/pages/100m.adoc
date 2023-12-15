@@ -1,16 +1,29 @@
 # 100 mètres
 :description: Découvrez les résultats du 100m des Jeux olympiques de Rio 2016.
 
-L'épreuve du 100 mètres masculin aux Jeux olympiques de 2016 se déroule les 13 et 14 août 2016 au Stade olympique de Rio de Janeiro, au Brésil. Elle est remportée par le Jamaïcain Usain Bolt en 9s81.
+L'épreuve du 100 mètres aux Jeux olympiques de 2016 se déroule au Stade olympique de Rio de Janeiro, au Brésil. 
 
 ## Médaillés
 
-[cols="1,1,1"]
+### Hommes
+
+[cols="^1,^1,^1"]
 |===
-| Or
-| Argent
-| Bronze
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
 | https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
 | https://fr.wikipedia.org/wiki/Justin_Gatlin[Justin Gatlin]
 | https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
+|===
+
+### Femmes
+[cols="^1,^1,^1"]
+|===
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+| https://fr.wikipedia.org/wiki/Elaine_Thompson[Elaine Thompson]
+| https://fr.wikipedia.org/wiki/Tori_Bowie[Tori Bowie]
+| https://fr.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce[Shelly-Ann Fraser-Pryce]
 |===

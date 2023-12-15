@@ -1,19 +1,31 @@
 # 200 mètres
 :description: Découvrez les résultats du 200m des Jeux olympiques de Rio 2016.
 
-L'épreuve du 200 mètres masculin aux Jeux olympiques de 2016 se déroule du 16 au 18 août 2016 au Stade olympique de Rio de Janeiro, au Brésil. Elle a été remportée par le Jamaïcain Usain Bolt dans le temps de 19 s 78.
+L'épreuve du 200 mètres aux Jeux olympiques de 2016 se déroule au Stade olympique de Rio de Janeiro, au Brésil. 
 
 ## Médaillés
 
-[cols="1,1,1"]
+### Hommes
+
+[cols="^1,^1,^1"]
 |===
-| Or
-| Argent
-| Bronze
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
 | https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
 | https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
 | https://fr.wikipedia.org/wiki/Christophe_Lemaitre[Christophe Lemaitre]
+|===
 
+### Femmes
+[cols="^1,^1,^1"]
+|===
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+| https://fr.wikipedia.org/wiki/Elaine_Thompson[Elaine Thompson]
+| https://fr.wikipedia.org/wiki/Dafne_Schippers[Dafne Schippers]
+| https://fr.wikipedia.org/wiki/Tori_Bowie[Tori Bowie]
 |===
 
 ## Un peu de culture du 200m

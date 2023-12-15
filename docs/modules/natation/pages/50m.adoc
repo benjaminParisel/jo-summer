@@ -1,15 +1,27 @@
-# 50m nage libre hommes
+# 50m nage libre 
 
-Le 50 m nage libre hommes est une épreuve des Jeux olympiques d'été de 2020 qui a eu lieu entre les 30 juillet et 1er août au Centre aquatique olympique de Tokyo. Il s'agit de la neuvième édition de cette épreuve qui est apparue pour la première fois lors des Jeux olympiques d'été de 1988.
+Le 50 m nage libre est une épreuve des Jeux Olympiques d'Été 2016 ont eu lieu au Centre olympique national de Rio de Janeiro.
 
 ## Médaillés
 
-[cols="1,1,1"]
+### Hommes
+[cols="^1,^1,^1"]
 |===
-| Or
-| Argent
-| Bronze
-| https://fr.wikipedia.org/wiki/Anthony_ErvinAnthony Ervin]
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+| https://fr.wikipedia.org/wiki/Anthony_Ervin[Anthony Ervin]
 | https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
 | https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
+|===
+
+### Femmes
+[cols="^1,^1,^1"]
+|===
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+| https://fr.wikipedia.org/wiki/Pernille_Blume[Pernille Blume]
+| https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel]
+| https://fr.wikipedia.org/wiki/Aliaksandra_Herasimenia[Aliaksandra Herasimenia]
 |===
