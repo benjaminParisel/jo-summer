@@ -1,23 +1,40 @@
 # 100 mètres nage libre hommes
 :description: Découvrez les résultats du 100m des Jeux olympiques de Tokyo 2020.
 
-Le 100 m nage libre hommes est une épreuve des Jeux olympiques d'été de 2020 qui a eu lieu entre les 27 et 29 juillet au Centre aquatique olympique de Tokyo.
+Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu lieu au Centre aquatique olympique de Tokyo.
 
 ## Médaillés
 
-[cols="1,1,1"]
+### Hommes
+
+[cols="^1,^1,^1"]
 |===
-| Or
-| Argent
-| Bronze
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+
 | https://fr.wikipedia.org/wiki/Caeleb_Dressel[Caeleb Dressel]
 | https://fr.wikipedia.org/wiki/Kyle_Chalmers[Kyle Chalmers]
 | https://fr.wikipedia.org/wiki/Kliment_Kolesnikov[Kliment Kolesnikov]
 |===
 
+### Femmes
+[cols="^1,^1,^1"]
+|===
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+
+| https://fr.wikipedia.org/wiki/Emma_McKeon[Emma McKeon]
+| https://fr.wikipedia.org/wiki/Siobhan_Haughey[Siobhan Haughey]
+| https://fr.wikipedia.org/wiki/Cate_Campbell[Cate Campbell]
+|===
+
 ## Record
 
-[cols="1,1,1,1,1"]
+### Hommes
+
+[cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
 | https://fr.wikipedia.org/wiki/César_Cielo[César Cielo]
@@ -30,4 +47,20 @@ Le 100 m nage libre hommes est une épreuve des Jeux olympiques d'été de 2020 
 | 47.02
 | Londres
 | 5 août 2012
+|===
+
+### Femmes
+[cols="^1,^1,^1,^1,^1"]
+|===
+| Record du monde
+| https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
+| 51.71
+| Budapest
+| 23 juillet 2017
+
+| Record olympique
+| https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel] https://fr.wikipedia.org/wiki/Penny_Oleksiak[Penny Oleksiak]
+| 52.70
+| Rio de Janeiro
+| 11 août 2016
 |===

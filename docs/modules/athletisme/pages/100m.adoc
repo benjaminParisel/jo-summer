@@ -1,24 +1,36 @@
 # 100 mètres
 :description: Découvrez les résultats du 100m des Jeux olympiques de Tokyo 2020.
 
-L'épreuve du 100 mètres masculin aux Jeux olympiques de 2020 se déroule les 31 juillet et 1er août 2021 au Stade olympique national de Tokyo, au Japon.
+L'épreuve du 100 mètres aux Jeux olympiques de 2020 se déroule au Stade olympique national de Tokyo, au Japon.
 
 ## Médaillés
 
-[cols="1,1,1"]
+### Hommes
+[cols="^1,^1,^1"]
 |===
-| Or
-| Argent
-| Bronze
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
 | https://fr.wikipedia.org/wiki/Marcell_Jacobs[Marcell Jacobs]
 | https://fr.wikipedia.org/wiki/Fred_Kerley[Fred Kerley]
 | https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
 |===
 
+### Femmes
+[cols="^1,^1,^1"]
+|===
+| Or 🥇
+| Argent 🥈
+| Bronze 🥉
+| https://fr.wikipedia.org/wiki/Elaine_Thompson-Herah[Elaine Thompson-Herah]
+| https://fr.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce[Shelly-Ann Fraser-Pryce]
+| https://fr.wikipedia.org/wiki/Shericka_Jackson[Shericka Jackson]
+|===
 
 ## Record
 
-[cols="1,1,1,1,1"]
+### Hommes
+[cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
 | https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
@@ -31,4 +43,21 @@ L'épreuve du 100 mètres masculin aux Jeux olympiques de 2020 se déroule les 3
 | 9s63
 | Londres
 | 5 août 2012
+|===
+
+
+#### Femmes
+[cols="^1,^1,^1,^1,^1"]
+|===
+| Record du monde
+| https://fr.wikipedia.org/wiki/Florence_Griffith-Joyner[Florence Griffith-Joyner]
+| 10s49
+| Indianapolis
+| 16 juillet 1988
+
+| Record olympique
+| https://fr.wikipedia.org/wiki/Elaine_Thompson-Herah[Elaine Thompson-Herah]
+| 10s61
+| Tokyo
+| 31 juillet 2021
 |===
