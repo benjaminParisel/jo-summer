@@ -11,9 +11,9 @@ Les épreuves du 100 mètres nage libre des Jeux olympiques d'été de 2016 se d
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Kyle_Chalmers[Kyle Chalmers]
-| https://fr.wikipedia.org/wiki/Pieter_Timmers[Pieter Timmers]
-| https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
+| 🇦🇺 https://fr.wikipedia.org/wiki/Kyle_Chalmers[Kyle Chalmers]
+| 🇧🇪 https://fr.wikipedia.org/wiki/Pieter_Timmers[Pieter Timmers]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
 |===
 
 ### Femmes
@@ -22,8 +22,9 @@ Les épreuves du 100 mètres nage libre des Jeux olympiques d'été de 2016 se d
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel] https://fr.wikipedia.org/wiki/Penny_Oleksiak[Penny Oleksiak]
+|  🇺🇸 https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel]
+🇨🇦 https://fr.wikipedia.org/wiki/Penny_Oleksiak[Penny Oleksiak]
 | -
-| https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
+| 🇸🇪 https://fr.wikipedia.org/wiki/Sarah_Sjöström[Sarah Sjöström]
 |===
 

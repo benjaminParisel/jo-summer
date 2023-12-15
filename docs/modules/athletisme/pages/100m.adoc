@@ -12,9 +12,9 @@ L'épreuve du 100 mètres aux Jeux olympiques de 2016 se déroule au Stade olymp
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
-| https://fr.wikipedia.org/wiki/Justin_Gatlin[Justin Gatlin]
-| https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
+| 🇯🇲 https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Justin_Gatlin[Justin Gatlin]
+| 🇨🇦 https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
 |===
 
 ### Femmes
@@ -23,7 +23,7 @@ L'épreuve du 100 mètres aux Jeux olympiques de 2016 se déroule au Stade olymp
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Elaine_Thompson[Elaine Thompson]
-| https://fr.wikipedia.org/wiki/Tori_Bowie[Tori Bowie]
-| https://fr.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce[Shelly-Ann Fraser-Pryce]
+| 🇯🇲 https://fr.wikipedia.org/wiki/Elaine_Thompson[Elaine Thompson]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Tori_Bowie[Tori Bowie]
+| 🇯🇲 https://fr.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce[Shelly-Ann Fraser-Pryce]
 |===

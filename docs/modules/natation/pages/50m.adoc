@@ -10,9 +10,9 @@ Le 50 m nage libre est une épreuve des Jeux Olympiques d'Été 2016 ont eu lieu
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Anthony_Ervin[Anthony Ervin]
-| https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
-| https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Anthony_Ervin[Anthony Ervin]
+| 🇫🇷 https://fr.wikipedia.org/wiki/Florent_Manaudou[Florent Manaudou]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Nathan_Adrian[Nathan Adrian]
 |===
 
 ### Femmes
@@ -21,7 +21,7 @@ Le 50 m nage libre est une épreuve des Jeux Olympiques d'Été 2016 ont eu lieu
 | Or 🥇
 | Argent 🥈
 | Bronze 🥉
-| https://fr.wikipedia.org/wiki/Pernille_Blume[Pernille Blume]
-| https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel]
-| https://fr.wikipedia.org/wiki/Aliaksandra_Herasimenia[Aliaksandra Herasimenia]
+| 🇩🇰 https://fr.wikipedia.org/wiki/Pernille_Blume[Pernille Blume]
+| 🇺🇸 https://fr.wikipedia.org/wiki/Simone_Manuel[Simone Manuel]
+| 🇧🇾 https://fr.wikipedia.org/wiki/Aliaksandra_Herasimenia[Aliaksandra Herasimenia]
 |===
