@@ -1,4 +1,0 @@
-* xref:index.adoc[Natation]
- ** xref:50m.adoc[50 mètres]
- ** xref:100m.adoc[100 mètres]
- 

@@ -1,9 +1,5 @@
 name: summer
 title: JO
-version: 2020
+version: 2024
+prerelease: true
 start_page: index.adoc
-asciidoc:
-  attributes:
-nav:
-  - modules/athletisme/nav.adoc
-  - modules/natation/nav.adoc
