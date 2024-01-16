@@ -17,18 +17,18 @@ image::logo.png[logo Tokyo 2020, 200, align="center"]
     {
       "name": "table",
       "values": [
-        {"country": "🇺🇸", "position": "0", "number": 39 ,"v": "#FFD700"},
-        {"country": "🇺🇸", "position": "1", "number": 41,"v": "#C0C0C0"},
-        {"country": "🇺🇸", "position": "2", "number": 33,"v": "#614e1a"},
-        {"country": "🇨🇳", "position": "0", "number": 38,"v": "#FFD700"},
-        {"country": "🇨🇳", "position": "1", "number": 32,"v": "#C0C0C0"},
-        {"country": "🇨🇳", "position": "2", "number": 19,"v": "#614e1a"},
-        {"country": "🇯🇵", "position": "0", "number": 27,"v": "#FFD700"},
-        {"country": "🇯🇵", "position": "1", "number": 14,"v": "#C0C0C0"},
-        {"country": "🇯🇵", "position": "2", "number": 17,"v": "#614e1a"},
-        {"country": "🇫🇷", "position": "0", "number": 10,"v": "#FFD700"},
-        {"country": "🇫🇷", "position": "1", "number": 12,"v": "#C0C0C0"},
-        {"country": "🇫🇷", "position": "2", "number": 11,"v": "#614e1a"}
+        {"country": "🇺🇸", "position": "0", "number": 39, "v": "#FFD700"},
+        {"country": "🇺🇸", "position": "1", "number": 41, "v": "#C0C0C0"},
+        {"country": "🇺🇸", "position": "2", "number": 33, "v": "#614e1a"},
+        {"country": "🇨🇳", "position": "0", "number": 38, "v": "#FFD700"},
+        {"country": "🇨🇳", "position": "1", "number": 32, "v": "#C0C0C0"},
+        {"country": "🇨🇳", "position": "2", "number": 19, "v": "#614e1a"},
+        {"country": "🇯🇵", "position": "0", "number": 27, "v": "#FFD700"},
+        {"country": "🇯🇵", "position": "1", "number": 14, "v": "#C0C0C0"},
+        {"country": "🇯🇵", "position": "2", "number": 17, "v": "#614e1a"},
+        {"country": "🇫🇷", "position": "0", "number": 10, "v": "#FFD700"},
+        {"country": "🇫🇷", "position": "1", "number": 12, "v": "#C0C0C0"},
+        {"country": "🇫🇷", "position": "2", "number": 11, "v": "#614e1a"}
       ]
     }
   ],
@@ -59,7 +59,7 @@ image::logo.png[logo Tokyo 2020, 200, align="center"]
   ],
 
   "axes": [
-    {"orient": "left", "scale": "yscale", "tickSize": 0, "labelPadding": 4, "zindex": 1},
+    {"orient": "left", "scale": "yscale", "tickSize": 0, "labelPadding": 12, "zindex": 1, "labelFontSize": 32},
     {"orient": "bottom", "scale": "xscale"}
   ],
 
