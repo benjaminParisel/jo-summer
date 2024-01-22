@@ -1,11 +1,11 @@
-# 100 mètres
+= 100 mètres
 :description: Découvrez les résultats du 100m des Jeux olympiques de Tokyo 2020.
 
 L'épreuve du 100 mètres aux Jeux olympiques de 2020 se déroule au Stade olympique national de Tokyo, au Japon.
 
-## Médaillés
+== Médaillés
 
-### Hommes
+=== Hommes
 [cols="^1,^1,^1"]
 |===
 | Or 🥇
@@ -16,7 +16,7 @@ L'épreuve du 100 mètres aux Jeux olympiques de 2020 se déroule au Stade olymp
 | 🇨🇦 https://fr.wikipedia.org/wiki/Andre_De_Grasse[Andre De Grasse]
 |===
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1"]
 |===
 | Or 🥇
@@ -27,9 +27,9 @@ L'épreuve du 100 mètres aux Jeux olympiques de 2020 se déroule au Stade olymp
 | 🇯🇲 https://fr.wikipedia.org/wiki/Shericka_Jackson[Shericka Jackson]
 |===
 
-## Record
+== Record
 
-### Hommes
+=== Hommes
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
@@ -46,7 +46,7 @@ L'épreuve du 100 mètres aux Jeux olympiques de 2020 se déroule au Stade olymp
 |===
 
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde

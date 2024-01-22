@@ -1,4 +1,4 @@
-# Athlétisme
+= Athlétisme
 
 Les épreuves d'athlétisme lors des Jeux olympiques d'été de 2020 se tiennent à Tokyo, au Japon. Initialement prévu du 31 juillet au 9 août 2020, les épreuves subissent le report des Jeux en 2021 en raison de la pandémie de Covid-19 et sont reprogrammées du 30 juillet au 8 août 2021. Les épreuves sur piste se déroulent au sein du Stade olympique national, pendant que les épreuves sur route (marathon et marche athlétique) sont finalement délocalisées dans le parc Ōdōri de Sapporo en raison des conditions climatiques. Quarante-huit finales figurent au programme de cette compétition (24 masculines, 23 féminines et une mixte), soit une de plus que lors de la précédente édition des Jeux à Rio de Janeiro avec l'ajout du relais 4 × 400 mètres mixte.
 

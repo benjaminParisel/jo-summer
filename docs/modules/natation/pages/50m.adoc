@@ -1,10 +1,10 @@
-# 50m nage libre hommes
+= 50m nage libre hommes
 
 Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu lieu au Centre aquatique olympique de Tokyo. Il s'agit de la neuvième édition de cette épreuve qui est apparue pour la première fois lors des Jeux olympiques d'été de 1988.
 
-## Médaillés
+== Médaillés
 
-### Hommes
+=== Hommes
 
 [cols="^1,^1,^1"]
 |===
@@ -17,7 +17,7 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 | 🇧🇷 https://fr.wikipedia.org/wiki/Bruno_Fratus[Bruno Fratus]
 |===
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1"]
 |===
 | Or 🥇
@@ -29,9 +29,9 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 | 🇩🇰 https://fr.wikipedia.org/wiki/Pernille_Blume[Pernille Blume]
 |===
 
-## Record
+== Record
 
-### Hommes
+=== Hommes
 
 [cols="^1,^1,^1,^1,^1"]
 |===
@@ -49,7 +49,7 @@ Le 50 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu
 |===
 
 
-### Femmes
+=== Femmes
 
 [cols="^1,^1,^1,^1,^1"]
 |===

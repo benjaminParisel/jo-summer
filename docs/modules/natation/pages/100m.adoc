@@ -1,11 +1,11 @@
-# 100 mètres nage libre hommes
+= 100 mètres nage libre hommes
 :description: Découvrez les résultats du 100m des Jeux olympiques de Tokyo 2020.
 
 Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a eu lieu au Centre aquatique olympique de Tokyo.
 
-## Médaillés
+== Médaillés
 
-### Hommes
+=== Hommes
 
 [cols="^1,^1,^1"]
 |===
@@ -18,7 +18,7 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 | https://fr.wikipedia.org/wiki/Kliment_Kolesnikov[Kliment Kolesnikov]
 |===
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1"]
 |===
 | Or 🥇
@@ -30,9 +30,9 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 | 🇦🇺 https://fr.wikipedia.org/wiki/Cate_Campbell[Cate Campbell]
 |===
 
-## Record
+== Record
 
-### Hommes
+=== Hommes
 
 [cols="^1,^1,^1,^1,^1"]
 |===
@@ -49,7 +49,7 @@ Le 100 m nage libre est une épreuve des Jeux olympiques d'été de 2020 qui a e
 | 5 août 2012
 |===
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde

@@ -1,8 +1,8 @@
-# Jeux olympiques d'été de 2020
+= Jeux olympiques d'été de 2020
 
 image::logo.png[logo Tokyo 2020, 200, align="center"]
 
-## Tableau des médailles
+== Tableau des médailles
 
 [vega]
 ....
@@ -132,7 +132,7 @@ image::logo.png[logo Tokyo 2020, 200, align="center"]
 }
 ....
 
-## Histoire
+== Histoire
 
 Les Jeux olympiques d'été de 2020, officiellement appelés Jeux de la XXXIIe olympiade de l'ère moderne, se déroulent au Japon du 23 juillet au 8 août 2021 (suivis par les Jeux paralympiques du 24 août au 5 septembre 2021) car les dates initialement prévues du 24 juillet au 9 août 2020 sont décalées en raison de la pandémie de Covid-19. Il s'agit des deuxièmes Jeux olympiques d'été organisés à Tokyo, après ceux de 1964.
 
@@ -147,7 +147,7 @@ Pour la même raison, il est décidé par toutes les parties prenantes (dont le 
 Les épreuves se tiennent dans plusieurs villes japonaises, principalement à Tokyo, dans la « zone Héritage » — dont plusieurs sites servent déjà pour les Jeux de 1964 — et la « zone de la baie de Tokyo », qui symbolise l'avenir de la ville.
 
 
-## Impact de la pandémie de Covid-19
+== Impact de la pandémie de Covid-19
 
 Le 5 février 2020, le comité d'organisation s'inquiète de la maladie à coronavirus 2019 dont l'épidémie prend de l'ampleur. Toshiro Muto déclare notamment : « Nous sommes extrêmement inquiets, dans le sens où l’avancée de l’épidémie pourrait tempérer l’intérêt et l’enthousiasme pour les Jeux11. » Courant mars 2020, l'hypothèse d'une annulation des Jeux inquiète les athlètes, puis des fédérations nationales et internationales et des comités nationaux olympiques annoncent tour à tour leur intention de ne pas envoyer des athlètes à Tokyo aux dates prévues.
 
@@ -173,7 +173,7 @@ Pour la même raison, il est décidé par toutes les parties prenantes (dont le 
 
 La plupart des sites des JO sont situés dans la capitale japonaise, mais certaines épreuves se déroulent dans d’autres départements, lesquels prennent aussi des mesures à leur discrétion43. Exceptionnellement, certains de ces sites, comme Izu (cyclisme), ont finalement accepté des spectateurs vivant au Japon44,45,46. Une fois de plus, il s’agit de deux décisions inédites dans l’histoire des JO41,42,43.
 
-### Opinion publique et impact de la COVID-19 pendant et après les Jeux
+=== Opinion publique et impact de la COVID-19 pendant et après les Jeux
 Avant les Jeux olympiques de Tokyo, de nombreux Japonais étaient réticents à l'idée d'organiser l'événement, mais leur attitude s'est améliorée progressivement vers la fin des Jeux. Selon un sondage d'opinion publique réalisé par Nippon News et le journal Yomiuri Shimbun, 38% des répondants estimaient qu'il était possible d'organiser les Jeux en toute sécurité malgré la COVID-19, tandis que 55% pensaient que ce n'était pas possible. Toutefois, 64% ont déclaré qu'il était positif que les Jeux de Tokyo aient eu lieu, tandis que 28% auraient préféré que l'événement soit annulé. Parmi les personnes interrogées, 61% étaient satisfaites du déroulement de l'événement sans spectateurs, et seulement 12% estimaient que la présence de spectateurs aurait dû être autorisée47.
 
 Le 29 juillet, le journaliste Masaki Kubota a observé que l'opinion du peuple japonais sur les Jeux olympiques était fortement influencée par le changement de ton des médias locaux. Initialement, de nombreux médias japonais appelaient à l'annulation des Jeux en raison des craintes liées à la COVID-19. Cependant, lorsque les athlètes japonais ont commencé à remporter des médailles, les médias ont adopté une approche plus positive, ce qui a modifié l'opinion publique au Japon48.

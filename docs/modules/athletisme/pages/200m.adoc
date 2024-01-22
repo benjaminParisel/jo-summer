@@ -1,11 +1,11 @@
-# 200 mètres
+= 200 mètres
 :description: Découvrez les résultats du 200m des Jeux olympiques de Tokyo 2020.
 
 L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade olympique national de Tokyo, au Japon.
 
-## Médaillés
+== Médaillés
 
-### Hommes
+=== Hommes
 
 [cols="^1,^1,^1"]
 |===
@@ -17,7 +17,7 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 | 🇺🇸 https://fr.wikipedia.org/wiki/Noha_Lyles[Noha Lyles]
 |===
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1"]
 |===
 | Or 🥇
@@ -29,13 +29,13 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 |===
 
 
-## Record
-### Hommes
+== Record
+=== Hommes
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
 | 🇯🇲 https://fr.wikipedia.org/wiki/Usain_Bolt[Usain Bolt]
-| 19s19	
+| 19s19
 | Berlin
 | 20 août 2009
 
@@ -46,7 +46,7 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 | 20 août 2008
 |===
 
-### Femmes
+=== Femmes
 [cols="^1,^1,^1,^1,^1"]
 |===
 | Record du monde
@@ -62,7 +62,7 @@ L'épreuve du 200 mètres aux Jeux olympiques de 2020 s'est déroulée au Stade 
 | 29 septembre 1988
 |===
 
-## Un peu de culture du 200m
+== Un peu de culture du 200m
 
 L'épreuve du 200 mètres figure au programme des Jeux olympiques depuis les Jeux de 1900, à Paris. Les femmes participent à cette épreuve depuis les Jeux olympiques de 1948, à Londres.
 
@@ -70,9 +70,9 @@ Avec trois titres olympiques, remportés consécutivement de 2008 à 2016, le Ja
 
 Les records olympiques de la discipline sont actuellement détenus par Usain Bolt, auteur de 19 s 30 en finale des Jeux olympiques de 2008, à Pékin, et par l'Américaine Florence Griffith-Joyner, créditée de 21 s 34 lors des Jeux de 1988, à Séoul.
 
-### Hommes 
+=== Hommes
 
-#### Historique
+==== Historique
 
 Le 200 mètres fait sa première apparition olympique lors des Jeux olympiques de 1900, à Paris où la finale voit s'opposer quatre concurrents. L'épreuve est remportée par l'Américain Walter Tewksbury qui devance l'Indien Norman Pritchard et l'Australien Stan Rowley1.
 
@@ -82,7 +82,7 @@ Lors des Jeux olympiques de 1908, à Londres, le Canadien Bobby Kerr remporte l'
 
 En 1912, aux Jeux olympiques de Stockholm, l'Américain Ralph Craig, déjà titré sur 100 m, remporte l'épreuve du 200 m dans le temps de 21 s 7, devançant son compatriote Don Lippincott et le Britannique William Applegarth4.
 
-##### 1920-1936
+===== 1920-1936
 
 Jesse Owens, champion olympique du 200 m en 1936. Le 200 m des Jeux olympiques de 1920, à Anvers, est remporté par l'Américain Allen Woodring qui s'impose en 22 s 05, devant le vainqueur de l'épreuve du 100 m, son compatriote Charley Paddock, et devant le Britannique Harry Edward6.
 
@@ -94,7 +94,7 @@ L'Américain Eddie Tolan, titré également sur 100 m, remporte le 200 m des Jeu
 
 Lors des Jeux olympiques de 1936, à Berlin, la victoire revient à l'Américain Jesse Owens, titré par ailleurs dans trois autres épreuves lors de cette compétition, qui s'impose dans le temps de 20 s 7, signant un nouveau record olympique après avoir porté celui-ci à 21 s 1 dès les séries. Il devance son compatriote Matthew Robinson (21 s 1) et le Néerlandais Tinus Osendarp (21 s 3)10.
 
-#####  1948-1964
+=====  1948-1964
 
 Livio Berruti, champion olympique en 1960.
 Lors des Jeux olympiques de 1948 à Londres, l'Américain Mel Patton s'impose dans le temps de 21 s 1 et devance son compatriote Barney Ewell, deuxième en 21 s 1 également, qui l'avait pourtant battu lors des sélections olympiques américaines. Le Panaméen Lloyd LaBeach se classe troisième en 21 s 2, juste devant le Jamaïcain Herb McKenley qui figurait également parmi les favoris au titre11.
@@ -107,7 +107,7 @@ Aux Jeux olympiques de 1960 à Rome, l'Italien Livio Berruti décroche le titre 
 
 En 1964, lors des Jeux olympiques de Tokyo, l'Américain Henry Carr, qui a établi quelques semaines avant le début des Jeux à Tempe un nouveau record du monde en 20 s 2, remporte le titre olympique en portant le record olympique à 20 s 3, devançant son compatriote Paul Drayton (20 s 5) et le Trinidadien Edwin Roberts (20 s 6), le tenant du titre Livio Berruti se classant cinquième de l'épreuve15. Henry Carr, quatrième seulement des sélections olympiques américaines, n'est retenu pour ces Jeux olympiques qu'après le désistement de son compatriote Bob Hayes qui décide de ne disputer que l'épreuve du 100 m16.
 
-##### 1968-1984
+===== 1968-1984
 
 Peter Norman, Tommie Smith et John Carlos sur le podium du 200 m en 1968.
 L'Américain Tommie Smith remporte le titre du 200 m lors des Jeux olympiques de 1968, à Mexico en établissant un nouveau record du monde en 19 s 83 (vent favorable de 0,9 m/s)17. En finale, Tommie Smith accuse à la mi-course près de deux mètres de retard sur son compatriote John Carlos qui l'avait battu lors des sélections olympiques américaines quelques semaines plus tôt. Smith produit son effort à 50 m de l'arrivée et devance finalement l'Australien Peter Norman, médaillé d'argent en 20 s 06 (record national) et John Carlos, qui s'adjuge la médaille de bronze en 20 s 1018. La cérémonie de remise des médailles du 200 m est resté célèbre à cause du poing levé et ganté de noir de Tommie Smith et John Carlos sur le podium, en protestation contre la situation des noirs américains à l'époque, les deux hommes s'excluant instantanément de l'équipe américaine19.
@@ -120,7 +120,7 @@ Lors des Jeux olympiques de 1980 marqués par le boycott d'une cinquantaine de n
 
 En 1984, lors des Jeux olympiques de Los Angeles, l'Américain Carl Lewis, titré par ailleurs à trois autres reprises lors de ces Jeux (100 m, saut en longueur et 4 × 100 m), remporte la médaille d'or du 200 m dans le temps de 19 s 80, devant ses deux compatriotes Kirk Baptiste (19 s 96) et Thomas Jefferson (20 s 26)23. Lewis améliore à cette occasion de 3/100e de seconde le record olympique de Tommie Smith, échouant seulement à 8/100e de seconde du record du monde de Pietro Mennea qui se classe septième de l'épreuve pour sa quatrième finale olympique consécutive sur 200 m.
 
-##### 1988-2004
+===== 1988-2004
 
 Michael Johnson, champion olympique en 1996 à Atlanta où il établit un nouveau record du monde.
 Lors des Jeux olympiques de 1988, à Séoul, l'Américain Joe DeLoach s'adjuge le titre olympique du 200 m en établissant un nouveau record olympique en 19 s 75 (vent favorable de 1,7 m/s), temps constituant la meilleure performance jamais réalisée au niveau de la mer et égalant le record des États-Unis. Il devance de 4/100e de seconde seulement le tenant du titre Carl Lewis, deuxième en 19 s 79. Le Brésilien Robson da Silva est médaillé de bronze en 20 s 0424.
@@ -133,7 +133,7 @@ Lors des Jeux olympiques de 2000, la victoire revient au Grec Konstantínos Kent
 
 L'Américain Shawn Crawford obtient la consécration olympique en 2004 lors des Jeux olympiques d'Athènes en s'imposant en finale dans le temps de 19 s 79, signant un nouveau record personnel. Il devance ses compatriotes Bernard Williams, qui bat également son record personnel en 20 s 01, et Justin Gatlin, champion olympique du 100 m, qui se classe troisième de la course en 20 s 03. La veille de la cérémonie d'ouverture, le tenant du titre Konstantínos Kentéris ne se présente pas à un contrôle antidopage ni devant la commission de discipline et ne participe donc pas à l'épreuve29.
 
-##### Depuis 2008
+===== Depuis 2008
 
 Usain Bolt, champion olympique du 200 m en 2008, 2012 et 2016.
 Lors des Jeux olympiques de 2008, à Pékin, le Jamaïcain Usain Bolt remporte la finale du 200 m dans le temps de 19 s 30 (vent défavorable de 0,9 m/s), améliorant de 2/100e de seconde le record du monde de l'Américain Michael Johnson établi douze ans plus tôt lors des Jeux d'Atlanta. Quelques jours plus tôt, il avait également remporté l'épreuve du 100 m en battant le record du monde. Le Néerlandais Churandy Martina et l'Américain Wallace Spearmon, initialement deuxième et troisième de la course, sont disqualifiés pour avoir mordu leur couloir voisin30. En conséquence, le tenant du titre Shawn Crawford, s'adjuge la médaille d'argent en 19 s 96, devant son compatriote Walter Dix, médaillé de bronze en 19 s 9831.
@@ -145,11 +145,11 @@ En 2016, lors des Jeux olympiques de Rio de Janeiro, Usain Bolt décroche son tr
 Cinq ans plus tard à Tokyo, la médaille d'or revient à Andre De Grasse qui obtient son premier sacre olympique après ses deux médailles de bronze sur 100 m en 2016 et 2021 et sa médaille d'argent sur 200 m en 2016. Avec un chrono en 19 s 62, nouveau record du Canada, il devance de 6 centièmes de seconde l'Américain Kenny Bednarek, qui bat son record personnel en 19 s 68, et de 12 centièmes le champion du monde en titre Noah Lyles (19 s 74)35. Le jeune Américain de 17 ans Erriyon Knighton, qui avait battu au cours de l'année le record du monde junior de Bolt en 19 s 84, échoue au pied du podium en 19 s 93.
 
 
-### Femmes
+=== Femmes
 
-#### Historique
+==== Historique
 
-##### 1948-1964
+===== 1948-1964
 
 Wilma Rudolph, championne olympique du 200 m en 1960.
 Le 200 mètres féminin fait sa première apparition olympique à l'occasion des Jeux olympiques de 1948, à Londres. Déjà titrée sur 100 m et sur 80 m haies, la Néerlandaise Fanny Blankers-Koen remporte la finale du 200 m en 24 s 3, devant la Britannique Audrey Williamson, deuxième en 25 s 1 et l'Américaine Audrey Patterson, troisième en 25 s 239. L'Australienne Shirley Strickland, qui avait terminé sur la même ligne que Patterson, se classe finalement quatrième de la course après décision des juges intervenue 45 minutes après l'arrivée.
@@ -162,7 +162,7 @@ En 1960, lors des Jeux olympiques de Rome, l'Américaine Wilma Rudolph, premièr
 
 Lors des Jeux olympiques de 1964, à Tokyo, l'Américaine Edith McGuire remporte le titre en établissant un nouveau record olympique en 23 s 0. Elle devance la Polonaise Irena Szewińska, médaillée d'argent en 23 s 1 et l'Australienne Marilyn Black, médaillée de bronze en 23 s 1 également. Jutta Heine, vice-championne du monde à Rome et championne d'Europe en 1962, est éliminée dès le premier tour pour deux faux départ43.
 
-##### 1968-1984
+===== 1968-1984
 
 Bärbel Wöckel, championne olympique en 1976 et 1980.
 Lors des Jeux olympiques de 1968 à Mexico, dès les séries l'Australienne Raelene Boyle égale le record olympique de 23 s 0 avant que l'Américaine Barbara Ferrell ne porte celui-ci à 22 s 9. En demi-finale, Boyle égale ce temps de 22 s 9 avant que Barbara Ferrell n'établisse un nouveau record olympique en s'imposant dans le temps de 22 s 8 dans la deuxième demi-finale. Mais en finale, Irena Szewińska, championne d'Europe en 1966, parvient à devancer toutes ses concurrentes en améliorant de 2/10e de seconde son propre record du monde en 22 s 5. Raelene Boyle se classe deuxième en 22 s 7 et l'Australienne Jenny Lamy est troisième en 22 s 844. Barbara Ferrell termine finalement au pied du podium, devant la Française Nicole Montandon et la championne olympique américaine du 100 m Wyomia Tyus.
@@ -175,7 +175,7 @@ En 1980, lors des Jeux olympiques de Moscou, Bärbel Wöckel devient la premièr
 
 Le boycott des Jeux olympiques de 1984 entraine l'absence des meilleures sprinteuses est-allemandes, dont figure notamment Marita Koch, championne du monde en 1983 à Helsinki et détentrice du record du monde en 21 s 71. Lors des Jeux olympiques de Los Angeles, l'Américaine Valerie Brisco-Hooks, titrée quelques jours lus tôt sur 400 m, sa distance de prédilection, remporte le titre olympique du 200 m en établissant un nouveau record olympique en 21 s 81, échouant à 1/10e de seconde seulement du record du monde de Marita Koch. Sa compatriote Florence Griffith-Joyner se classe deuxième en 22 s 04, devant Merlene Ottey qui obtient une nouvelle médaille de bronze dans cette épreuve en 22 s 0948.
 
-#####  1988-2004
+=====  1988-2004
 
 Marie-José Pérec, championne olympique en 1996.
 Lors des Jeux olympiques de 1988 à Séoul, Florence Griffith-Joyner, titrée quelques jours plus tôt sur 100 m, bat le record olympique de Valerie Brisco-Hooks en réalisant le temps de 21 s 76 dès les quarts de finale. Le lendemain en demi-finale, elle établit le temps de 21 s 56 et améliore de 15/100e de seconde le record du monde détenu conjointement par Marita Koch et sa compatriote Heike Drechsler. En finale, elle réédite cette performance en s'imposant dans le temps de 21 s 34, soit une amélioration de 22/100e de seconde de son record du monde réalisé quelques heures plus tôt49. La Jamaïcaine Grace Jackson se classe deuxième en 21 s 72, devant Heike Drechsler, troisième en 21 s 95. L'autre est-allemande Silke Gladisch-Möller, championne du monde en 1987 à Rome, termine cinquième de la finale en 22 s 09, juste derrière Merlene Ottey.
@@ -188,7 +188,7 @@ Quatre ans plus tard, aux Jeux olympiques de 2000 à Sydney, l'Américaine Mario
 
 Lors des Jeux olympiques de 2004, à Athènes, la Jamaïcaine Veronica Campbell améliore son record personnel en finale pour s'imposer dans le temps de 22 s 05. Elle devance la jeune américaine Allyson Felix remarquée lors des sélections olympiques, qui se classe deuxième en établissant un nouveau record du monde junior en 22 s 18. La Bahaméenne Debbie Ferguson complète le podium en 22 s 3054. La Russe Anastasiya Kapachinskaya, championne du monde en 2003, a été suspendue deux ans pour dopage quelques semaines avant le début des Jeux55.
 
-##### Depuis 2008
+===== Depuis 2008
 
 Elaine Thompson-Herah, première femme à gagner le 100 m et le 200 m sur deux éditions consécutives des Jeux olympiques
 En 2008, lors des Jeux olympiques de Pékin, Veronica Campbell-Brown conserve son titre olympique et devient la deuxième athlète féminine après Bärbel Wöckel à remporter une deuxième médaille d'or sur 200 m. Campbell-Brown s'impose dans le temps de 21 s 74 (record personnel) et devance la favorite de l'épreuve Allyson Felix, championne du monde en 2005 et 2007 et classée numéro un mondiale sur la distance depuis 2005, qui se classe deuxième de la finale en 21 s 93. La Jamaïcaine Kerron Stewart complète le podium en 22 s 0056. Les Américaines Muna Lee et Marshevet Hooker battent également leur record personnel et se classent respectivement 4e et 5e de l'épreuve.
