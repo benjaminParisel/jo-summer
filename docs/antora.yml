@@ -5,5 +5,6 @@ start_page: index.adoc
 asciidoc:
   attributes:
 nav:
+  - modules/ROOT/nav.adoc
   - modules/athletisme/nav.adoc
   - modules/natation/nav.adoc

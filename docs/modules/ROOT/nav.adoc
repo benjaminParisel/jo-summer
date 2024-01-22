@@ -1,0 +1,1 @@
+* xref:medals.adoc[Tableau des médailles]
