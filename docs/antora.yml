@@ -1,9 +1,7 @@
 name: summer
-title: JO
+title: JO Été
 version: 2020
 start_page: index.adoc
-asciidoc:
-  attributes:
 nav:
   - modules/ROOT/nav.adoc
   - modules/athletisme/nav.adoc
