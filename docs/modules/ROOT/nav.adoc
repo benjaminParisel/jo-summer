@@ -1,0 +1,2 @@
+* xref:selection-ville-hote.adoc[Sélection de la ville hôte]
+* xref:sports-au-programme.adoc[Sports au programme]
