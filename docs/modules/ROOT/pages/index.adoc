@@ -1,8 +1,8 @@
-# Jeux olympiques d'été de 2024
+= Jeux olympiques d'été de 2024
 
 image::Paris.png[logo Paris 2024, 200, align="center"]
 
-## Histoire
+== Histoire
 
 Les Jeux olympiques d'été de 2024, officiellement appelés les Jeux de la XXXIIIe olympiade, seront célébrés du 26 juillet au 11 août 2024 à Paris, en France. La ville a été officiellement désignée lors de la 131e session du CIO à Lima, au Pérou, le 13 septembre 20171,2. Les villes de Hambourg, Rome et Budapest étaient également en lice jusqu'à leurs retraits, respectivement les 29 novembre 2015, 11 octobre 2016 et 22 février 20173 ; et la ville de Los Angeles est simultanément désignée pour organiser les Jeux olympiques de 2028, conformément à l'accord trouvé avec le CIO, le 31 juillet 20174. Après Londres (1908, 1948 et 2012), Paris devient la deuxième ville à célébrer les Jeux olympiques d'été pour la troisième fois, à cent ans d'écart (1900, 1924 et 2024), avant que ce ne soit le tour de Los Angeles (1932, 1984 et 2028). L'événement reviendra à son cycle olympique traditionnel de 4 ans, après les Jeux olympiques de 2020 de Tokyo qui ont eu lieu en 2021 en raison de la pandémie de Covid-19.
 
@@ -10,8 +10,13 @@ Le projet « Paris 2024 » s'appuie sur 95 % de sites déjà existants ou tempor
 
 Le 7 février 2018, un changement dans le calendrier est annoncé. Les JO, qui devaient initialement se dérouler du 2 au 18 août, sont avancés d'une semaine pour des raisons d'organisation. Ils se tiendront finalement du 26 juillet au 11 août 20249.
 
-## Sélection de la ville hôte et double attribution des Jeux
+== Sélection de la ville hôte et double attribution des Jeux
 
 Compte tenu des défections successives de Rome, Hambourg et Budapest, et dès le 8 décembre 2016, Thomas Bach, le président du Comité international olympique, avait réfléchi à une double attribution en expliquant « nous produisons trop de [dossiers] perdants »10. Le 17 mars 2017, il confirme et émet l'hypothèse d'une attribution simultanée des JO 2024 et 2028, afin de conserver les « deux excellentes candidatures » de Paris et Los Angeles, les deux dernières villes encore en course pour l'édition 2024. Cette solution assurant donc aux deux villes d'obtenir l'organisation des Jeux olympiques, en 2024 pour l'une, en 2028 pour l'autre11. Le principe de la double attribution était déjà appliqué pour les olympiades de 1896 et 1900 puis celles de 1924 et 192812. Le 13 mai 2017, le maire de Los Angeles Eric Garcetti se dit favorable à cette proposition, ajoutant : « Je sais que je n'ai pas une position orthodoxe sur la question et je sais que Paris a pu dire par le passé que c'était 2024 ou rien », n'écartant pas ainsi l'idée de voir sa ville organiser les JO 2028, afin de laisser à Paris le soin d'organiser ceux de 202413.
 
 Le 9 juin 2017, le bureau exécutif du Comité international olympique adopte à l'unanimité la recommandation du président Thomas Bach en faveur d'un double vote à Lima le 13 septembre, pour désigner les villes-hôtes des Jeux olympiques 2024 et 2028, soit Paris et Los Angeles dans un ordre qui reste à définir. Le 11 juillet 2017, lors d'une session extraordinaire à Lausanne où les deux villes présentent leurs projets, la centaine de membres du CIO approuvent cette décision, sans surprise14. Le 31 juillet, le CIO annonce qu'il est parvenu à un accord avec la ville californienne pour qu'elle organise l'édition 20284, Paris restant seul en lice pour l'organisation des Jeux olympiques de 202415. Le 13 septembre 2017, les membres du CIO votent à l'unanimité et à main levée en faveur de l'attribution des Jeux d'été 2024 à Paris et de ceux de 2028 à Los Angeles.
+
+
+== Pour aller plus loin
+
+NOTE: L'ensemble des informations est disponible sur la page https://fr.wikipedia.org/wiki/Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2024[Wikipédia des Jeux olympiques d'été de 2024]
