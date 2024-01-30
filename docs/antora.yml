@@ -1,9 +1,7 @@
 name: summer
-title: JO
+title: JO Eté
 version: 2016
 start_page: index.adoc
-asciidoc:
-  attributes:
 nav:
   - modules/athletisme/nav.adoc
   - modules/natation/nav.adoc
